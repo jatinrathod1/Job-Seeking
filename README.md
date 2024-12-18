@@ -46,14 +46,6 @@ This is the backend for the Job-Seeking Application, built using **Node.js** and
 ## **Environment Variables**
 Create a `.env` file in the root directory and add the following:
 
-```plaintext
-PORT=5000
-DATABASE_URL=<Your MongoDB Connection String>
-JWT_SECRET=<Your JWT Secret>
-COOKIE_EXPIRE=7
-FRONTEND_URL=<Frontend URL>
-```
-
 ---
 
 ## **Project Structure**
