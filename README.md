@@ -95,15 +95,10 @@ Create a `.env` file in the root directory and add the following:
 
 ## **Setup Instructions**
 
-1. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
-
-2. **Set Up Environment Variables:**
+1. **Set Up Environment Variables:**
    - Create a `.env` file and add the required variables.
 
-3. **Start the Development Server:**
+2. **Start the Development Server:**
    ```bash
    node server.js
    nodemon server.js
